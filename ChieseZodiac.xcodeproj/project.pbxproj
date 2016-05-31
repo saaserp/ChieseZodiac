@@ -47,6 +47,7 @@
 		B326F13B1CFAE8C6001927C2 /* ChieseZodiacUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChieseZodiacUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B326F13F1CFAE8C6001927C2 /* ChieseZodiacUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChieseZodiacUITests.swift; sourceTree = "<group>"; };
 		B326F1411CFAE8C6001927C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B326F14D1CFB2731001927C2 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				B326F1261CFAE8C6001927C2 /* Assets.xcassets */,
 				B326F1281CFAE8C6001927C2 /* LaunchScreen.storyboard */,
 				B326F12B1CFAE8C6001927C2 /* Info.plist */,
+				B326F14D1CFB2731001927C2 /* MyPlayground.playground */,
 			);
 			path = ChieseZodiac;
 			sourceTree = "<group>";
